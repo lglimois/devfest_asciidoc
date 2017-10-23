@@ -1,0 +1,25 @@
+= My Document's Title
+Doc Writer <doc.writer@asciidoctor.org>
+v1.0, 2014-01-01
+:toc:
+:imagesdir: images
+
+== Introduction
+Objectifs: Separation of Concern.
+
+Differents outils:
+ * Latex
+ * CSS zen garden
+ * Ascii doc
+
+== Exemple images
+//on peut mettre des commentaires dans le texte, comme dans du code.
+
+.01_stormtrooper
+image::01_stormtrooper.jpg[]
+02_yoda.jpg
+image::02_yoda.jpg[]
+akbar.jpg[]
+image::akbar.jpg[]
+ian_solo.jpg
+image::ian_solo.jpg[]
