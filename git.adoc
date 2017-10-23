@@ -35,12 +35,13 @@ git push -u origin master
 ....
 
 * Pour ne plus avoir à saisir le mot de passe.
-Aller dans Welcome Guide
-Open the github panel
-Visit github.atom.io/login
-Generate token
-Saisir le token
+** Aller dans Welcome Guide
+** Open the github panel
+** Visit github.atom.io/login
+** Generate token
+** Saisir le token
 
+- en attente de la modif branche devfest_asciidoc
 
 == ANNEXES
 
