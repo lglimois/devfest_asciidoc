@@ -34,6 +34,14 @@ git remote add origin https://github.com/lglimois/devfest_asciidoc.git
 git push -u origin master
 ....
 
+* Pour ne plus avoir à saisir le mot de passe.
+Aller dans Welcome Guide
+Open the github panel
+Visit github.atom.io/login
+Generate token
+Saisir le token
+
+
 == ANNEXES
 
 …or create a new repository on the command line
