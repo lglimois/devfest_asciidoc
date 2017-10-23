@@ -32,5 +32,15 @@ image::akbar.jpg[]
 .ian_solo.jpg
 image::ian_solo.jpg[]
 
+<<<<<<< HEAD
 
 Test
+=======
+J'aimerais bein ajouté un paragraphe
+.
+gs
+fgsd
+fgsdf
+gsdf
+g
+>>>>>>> 1643c580ab6a906dce54c37b59be2ab99ae64b12
