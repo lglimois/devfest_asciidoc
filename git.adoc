@@ -1,0 +1,52 @@
+== Tuto Git
+
+Prérequis:
+[]
+* Installer Git
+
+Creation de la clé
+[]
+* telecharger Git
+* ouvrir git bash
+* executer
+....
+commande: ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+....
+* mettre la cle sous Git (la clé publique)
+
+== Initialiser projet Git
+* se mettre dans le rerpertoire qui va bien
+* setter les variables Git "user.email":
+....
+  git config --global user.email "you@example.com"
+....
+* setter les variables Git "user.name":
+....
+    git config --global user.name "Your Name"
+....
+* créer le projet sous git
+* brancher ledir WIndows avec le projet Git
+....
+git remote add origin https://github.com/lglimois/devfest_asciidoc.git
+....
+* pusher
+....
+git push -u origin master
+....
+
+== ANNEXES
+
+....
+…or create a new repository on the command line
+
+echo "# devfest_asciidoc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lglimois/devfest_asciidoc.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/lglimois/devfest_asciidoc.git
+git push -u origin master
+....

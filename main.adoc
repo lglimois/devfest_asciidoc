@@ -8,18 +8,26 @@ v1.0, 2014-01-01
 Objectifs: Separation of Concern.
 
 Differents outils:
- * Latex
- * CSS zen garden
- * Ascii doc
+[Differents outils:]
+ * Latex.
+ * CSS zen garden.
+ * Ascii doc.
+
+Exemple de code:
+....
+error: The requested operation returned error: 1954 Forbidden search for defensive operations manual
+absolutely fatal: operation initiation lost in the dodecahedron of doom
+would you like to die again? y/n
+....
 
 == Exemple images
 //on peut mettre des commentaires dans le texte, comme dans du code.
 
 .01_stormtrooper
 image::01_stormtrooper.jpg[]
-02_yoda.jpg
+.02_yoda.jpg
 image::02_yoda.jpg[]
-akbar.jpg[]
+.akbar.jpg[]
 image::akbar.jpg[]
-ian_solo.jpg
+.ian_solo.jpg
 image::ian_solo.jpg[]
